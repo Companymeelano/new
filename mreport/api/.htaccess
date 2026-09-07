@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(bootstrap|index)\.php$">
+  Require all granted
+</FilesMatch>
